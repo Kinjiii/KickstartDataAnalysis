@@ -1,24 +1,36 @@
-# KickstartDataAnalysis
-Kaggle dataset analyzed
+# Kickstarter Data Analysis
 
-Welcome to the analysis of kickstarter data.
+## Overview
+Welcome to the analysis of Kickstarter data. This Jupyter Notebook explores various trends and insights from Kickstarter projects, providing a comprehensive look at what factors contribute to successful crowdfunding campaigns.
 
-Disclaimer: This file was made in Jupyter Notebook and requires Python and Anaconda to run.
-		Attached below is a link to the official website to download Python from:
-		https://www.python.org/downloads/
-		Attached below is a link to the official website to download Anaconda from:
-		https://www.anaconda.com/
+## Disclaimer
+This analysis was conducted using Jupyter Notebook and requires both Python and Anaconda to run. Below are the official links to download these tools:
 
-Once you have all the pre-requisite files installed and running you can open up Anaconda and launch Jupyter Notebook.
-Inside Jupyter Notebook navigate to the folder wherein you downloaded this file to. From there you can launch the attached
-Jupyter notebook file. Once inside you can go to the top of the webpage and click on the run button, this will open a dropdown
-which will show you various runtime options, click on Run All or Restart and Run to run every cell in the file.
+- [Download Python](https://www.python.org/downloads/)
+- [Download Anaconda](https://www.anaconda.com/)
 
-Depending on your computer this may take a while so please be patient while the code runs.
+## Getting Started
+### Prerequisites
+To run this analysis, ensure you have Python and Anaconda installed on your system.
 
-Alternatively, simply click on the .ipynb file and view the entire source file.
-Your page should be full of graphs and output data. You're now free to look through the analysis.
+### Running the Jupyter Notebook
+1. Open Anaconda and launch Jupyter Notebook.
+2. Navigate to the folder where you have downloaded this file.
+3. Open the attached Jupyter Notebook file (`.ipynb`).
+4. To run the notebook, go to the top of the webpage and click on the **Run** button.
+5. From the dropdown menu, select **Run All** or **Restart and Run All** to execute every cell in the notebook.
 
-Thank you for viewing this analysis
+**Note:** Depending on your computer's processing power, running the notebook may take some time. Please be patient while the code executes.
 
-Matthew Adamson 
+### Viewing the Analysis
+If you prefer not to run the code, you can simply open the `.ipynb` file to view the entire source. The notebook is filled with graphs, tables, and output data that illustrate the insights gathered from the Kickstarter dataset.
+
+## Conclusion
+Thank you for taking the time to view this analysis. I hope you find the insights valuable and informative. Feel free to explore the notebook, and if you have any questions or feedback, don't hesitate to reach out.
+
+## Author
+**Matthew Adamson**
+
+---
+
+Enjoy exploring the data!
